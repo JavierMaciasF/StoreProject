@@ -1,0 +1,5 @@
+C:\Users\px04148\source\repos\Store.Model\bin\Debug\Store.Model.dll
+C:\Users\px04148\source\repos\Store.Model\bin\Debug\Store.Model.pdb
+C:\Users\px04148\source\repos\Store.Model\obj\Debug\Store.Model.csprojAssemblyReference.cache
+C:\Users\px04148\source\repos\Store.Model\obj\Debug\Store.Model.dll
+C:\Users\px04148\source\repos\Store.Model\obj\Debug\Store.Model.pdb

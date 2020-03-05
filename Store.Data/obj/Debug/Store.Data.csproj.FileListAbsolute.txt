@@ -1,0 +1,13 @@
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\Store.Data.dll.config
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\Store.Data.dll
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\Store.Data.pdb
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\EntityFramework.dll
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\Store.Model.dll
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\Store.Model.pdb
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\EntityFramework.xml
+C:\Users\px04148\source\repos\Store.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\px04148\source\repos\Store.Data\obj\Debug\Store.Data.csprojAssemblyReference.cache
+C:\Users\px04148\source\repos\Store.Data\obj\Debug\Store.Data.csproj.CopyComplete
+C:\Users\px04148\source\repos\Store.Data\obj\Debug\Store.Data.dll
+C:\Users\px04148\source\repos\Store.Data\obj\Debug\Store.Data.pdb
